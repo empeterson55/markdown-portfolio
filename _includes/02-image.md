@@ -1,1 +1,1 @@
-![picture of an otter] (https://image.shutterstock.com/image-vector/otter-sunglasses-river-animal-emoji-600w-1309896799.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
