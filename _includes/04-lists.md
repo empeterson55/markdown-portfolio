@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Family
+2. Computers
+  i. Building computers
+  ii. Learning about computers
+  iii. Learning to code
+3. Building things
