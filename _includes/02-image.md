@@ -1,1 +1,1 @@
-![picture of an otter] (https://s3.amazonaws.com/dating-media/app/public/ckeditor_assets/pictures/11/content_otttaArtboard_1_copy_2.jpg)
+![picture of an otter] (https://image.shutterstock.com/image-vector/otter-sunglasses-river-animal-emoji-600w-1309896799.jpg)
